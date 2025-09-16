@@ -24,8 +24,6 @@ Plataforma: .NET (Console Application)
 
 IDE sugerida: Visual Studio ou Visual Studio Code
 
-IDE sugerida: Visual Studio ou Visual Studio Code
-
 # 📁 Estrutura do Projeto
 
 /Program.cs → código principal da calculadora
