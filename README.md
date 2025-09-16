@@ -27,6 +27,7 @@ IDE sugerida: Visual Studio ou Visual Studio Code
 IDE sugerida: Visual Studio ou Visual Studio Code
 
 # 📁 Estrutura do Projeto
+
 Calculadora/
 │
 ├── Program.cs     
