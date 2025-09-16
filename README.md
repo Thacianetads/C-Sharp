@@ -28,7 +28,9 @@ IDE sugerida: Visual Studio ou Visual Studio Code
 
 # 📁 Estrutura do Projeto
 
-Calculadora/│
+Calculadora/
+
+│
 ├── Program.cs     
 ├── README.md       
 └── Calculadora.sln
