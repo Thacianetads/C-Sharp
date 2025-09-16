@@ -31,6 +31,7 @@ IDE sugerida: Visual Studio ou Visual Studio Code
 Calculadora/
 
 │
+
 ├── Program.cs     
 ├── README.md       
 └── Calculadora.sln
