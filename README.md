@@ -10,7 +10,7 @@ Este é um projeto simples de uma calculadora de operações básicas, feito em 
 
 ✅ Multiplicação
 
-✅ Divisão (com tratamento para divisão por zero)
+✅ Divisão 
 
 ✅ Interface interativa no console
 
