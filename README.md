@@ -1,8 +1,8 @@
-#🧮 Calculadora de Operações Básicas em C#
+# 🧮 Calculadora de Operações Básicas em C#
 
 Este é um projeto simples de uma calculadora de operações básicas, feito em C# (Console Application). O usuário pode realizar operações como adição, subtração, multiplicação e divisão entre dois números inteiros.
 
-#📌 Funcionalidades
+# 📌 Funcionalidades
 
 ✅ Adição
 
@@ -16,7 +16,7 @@ Este é um projeto simples de uma calculadora de operações básicas, feito em 
 
 ✅ Validação de entrada para evitar erros
 
-#💻 Tecnologias utilizadas
+# 💻 Tecnologias utilizadas
 
 Linguagem: C#
 
